@@ -37,3 +37,10 @@ Accidents at uncontrolled junctions show higher fatality rates.
 
 Urban regions report more frequent incidents; rural ones report more severe outcomes.
 
+##  Tools & Technologies Used
+
+- **Power BI** – for dashboard design and data modeling  
+- **DAX (Data Analysis Expressions)** – for calculated measures  
+- **Power Query (M Language)** – for data transformation and ETL  
+- **Microsoft Excel / CSV** – for data source  
+
